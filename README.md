@@ -3,6 +3,8 @@
 # V2EX_Crawler
 Scrapy 爬取 V2EX 最近的文章, 存储到 Mongodb
 
+![](https://github.com/iShawnWang/V2EX_Crawler/blob/master/images/666.png)
+
 # Features
 - [x] form 账户登录
 - [x] 分页抓取 [V2EX Recent](https://www.v2ex.com/recent)
@@ -37,7 +39,7 @@ V2EX_PASSWORD = "xxx"
 
 # Contact
 
-Email : iShawnWang2333@gmail.com
+Email : iShawnWang2333@gmail.com  
 Weibo : [王大屁帅2333](https://weibo.com/p/1005052848310723/home?from=page_100505&mod=TAB#place)
 
 # License
