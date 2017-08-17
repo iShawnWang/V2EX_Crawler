@@ -4,7 +4,7 @@
 Scrapy 爬取 V2EX 最近的文章, 存储到 Mongodb
 
 # Features
-
+- [x] form 账户登录
 - [x] 分页抓取 [V2EX Recent](https://www.v2ex.com/recent)
     - 相关用户, 及评论  
 - [x] 存储数据到本地 MongoDB
