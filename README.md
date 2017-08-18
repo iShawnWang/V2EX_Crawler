@@ -68,7 +68,7 @@ V2EX_Cralwer is released under the GPL v3.0 license. See [LICENSE](https://githu
 
 [license]:https://img.shields.io/badge/license-GPL%20V3-red.svg
 
-[lic_file]:https://raw.githubusercontent.com/xiyouMc/WebHubBot/master/LICENSE
+[lic_file]:https://raw.githubusercontent.com/iShawnWang/V2EX_Crawler/master/LICENSE
 
 
 
