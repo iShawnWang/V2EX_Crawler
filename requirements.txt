@@ -12,7 +12,7 @@ future==0.16.0
 hyperlink==17.2.1
 idna==2.5
 incremental==17.5.0
-lxml==3.7.3
+lxml==4.6.2
 olefile==0.44
 parsel==1.2.0
 Pillow==4.1.1
