@@ -29,7 +29,7 @@ scrapy-fake-useragent==1.1.0
 service-identity==17.0.0
 six==1.10.0
 Twisted==17.5.0
-urllib3==1.22
+urllib3==1.26.5
 w3lib==1.17.0
 Werkzeug==0.12.2
 xlrd==1.0.0
